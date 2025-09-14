@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/model/Donor.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/dao/DonationDao.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/dao/DonorDao.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/resources/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/model/Donation.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/dao/BloodRequestDao.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/model/User.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/model/BloodInventory.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/server/ServerMain.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/rmi/BloodInventoryService.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/model/BloodRequest.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/BloodDonationSystemServer26676/src/dao/BloodInventoryDao.java</file>
+        </group>
+    </open-files>
+</project-private>

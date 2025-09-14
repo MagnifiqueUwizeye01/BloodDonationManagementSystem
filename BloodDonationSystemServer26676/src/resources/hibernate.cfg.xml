@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3307/blood_donation_management_system_db?useSSL=false&amp;serverTimezone=UTC</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password"></property>
+
+        <!-- JDBC connection pool -->
+        <property name="connection.pool_size">10</property>
+
+        <!-- SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
+
+        <!-- Show SQL in console -->
+        <property name="show_sql">true</property>
+
+        <!-- Automatically update DB schema -->
+        <property name="hbm2ddl.auto">update</property>
+
+        <!-- Annotated entity classes -->
+        <mapping class="model.Donor" />
+        <mapping class="model.Donation" />
+        <mapping class="model.BloodRequest" />
+        <mapping class="model.BloodInventory"/>
+
+    </session-factory>
+</hibernate-configuration>
