@@ -28,9 +28,47 @@ This project is developed as part of a **university software engineering exam** 
 - Java RMI for client-server communication  
 - JavaMail (optional OTP/email feature)  
 - MySQL / MariaDB  
-- GitHub for version control  
+- GitHub for version control
 
-**Structure:**  
+
+ ## ✨ Key Features
+
+- **User Authentication** (Login & Registration)  
+- **Donor Management** – Add, edit, delete, and view donors  
+- **Donation Recording** – Track blood donations with donor linkage  
+- **Blood Request Management** – Hospitals/Patients request blood  
+- **Blood Inventory Tracking** – Automatically updates stock based on donations and requests  
+- **PDF Export** – Generate reports for records  
+- **RMI Integration** – Distributed system with server-client architecture  
+- **Hibernate ORM** – Database persistence with annotations and entity relationships  
+
+
+---
+
+## 🖼 Screenshots
+
+### 🔑 Login
+<img width="470" height="739" alt="Image" src="https://github.com/user-attachments/assets/3cf5db03-8678-4aac-8aff-5483d1f5977a" />
+
+### 📝 Register
+<img width="452" height="653" alt="Image" src="https://github.com/user-attachments/assets/6cc3ed85-fa29-4288-9396-1ac1609d7f5b" />
+
+### 🧑‍🤝‍🧑 Donor Management
+Manage donor records with full CRUD functionality.  
+<img width="1699" height="1003" alt="Image" src="https://github.com/user-attachments/assets/bd8c006d-bf26-4c13-8cc7-c2a309a2ceb4" />
+
+### 💉 Donation Recording
+Record new blood donations and update inventory.  
+<img width="1698" height="1002" alt="Image" src="https://github.com/user-attachments/assets/ae78de6e-ea0b-4334-864d-3796f8a74611" />
+
+### 📥 Blood Request
+Request blood units and track status (pending/fulfilled).  
+<img width="1697" height="1001" alt="Image" src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" />
+
+---
+
+
+**Project Structure:**  
 BloodDonationManagementSystem/
 ├── client/ → Client-side GUI
 
