@@ -7,7 +7,7 @@ This repository contains a **two-phase project** built in Java to manage donors,
 
 ## 📌 About This Repository
 
-This project is developed as part of a **university software engineering exam** and showcases a progressive development from **DAO/JDBC** to a **full RMI + Hibernate client-server system**. 
+This project is developed as part of a **university software engineering exam** and showcases a progressive development from **DAO/JDBC** to a **full RMI + Hibernate client-server system**.  
 
 ### Branches Overview
 
