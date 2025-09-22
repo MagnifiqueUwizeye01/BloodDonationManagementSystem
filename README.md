@@ -13,7 +13,7 @@ This project is developed as part of a **university software engineering exam** 
 
 | Branch      | Description | 
 |------------|-------------| 
-| `main`     | **Phase 2 (Final)** — Hibernate ORM + RMI-based client-server version. Default branch. Exam-ready and production-like. |   
+| `main`     | **Phase 2 (Final)** — Hibernate ORM + RMI-based client-server version. Default branch. Exam-ready and production-like. |    
 | `phase-1`  | **Phase 1 (Initial)** — DAO + JDBC + Swing GUI version. Used for learning and initial prototype. |
  
 > **Note:** If you are new to this project, start with the `main` branch to explore the full functionality.  
