@@ -24,7 +24,7 @@ This project is developed as part of a **university software engineering exam** 
 
 **Technologies Used:**  
 - Java (Swing for GUI)  
-- Hibernate ORM  
+- Hibernate ORM   
 - Java RMI for client-server communication  
 - JavaMail (optional OTP/email feature)  
 - MySQL / MariaDB  
