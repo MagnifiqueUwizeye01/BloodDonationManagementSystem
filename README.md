@@ -40,7 +40,7 @@ This project is developed as part of a **university software engineering exam** 
 - **Blood Inventory Tracking** – Automatically updates stock based on donations and requests  
 - **PDF Export** – Generate reports for records  
 - **RMI Integration** – Distributed system with server-client architecture  
-- **Hibernate ORM** – Database persistence with annotations and entity relationships  
+- **Hibernate ORM** – Database persistence with annotations and entity relationships   
 
 
 ---
