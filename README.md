@@ -114,7 +114,7 @@ BloodDonationManagementSystem/
 
 ---
 
-## 🗂 Database Schema
+## 🗂 Database Schema 
 
 ### Donors
 - `donor_id` INT (PK)  
