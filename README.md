@@ -18,7 +18,7 @@ This project is developed as part of a **university software engineering exam** 
  
 > **Note:** If you are new to this project, start with the `main` branch to explore the full functionality.    
 
----
+--- 
 
 ## 🏗 Phase 2 — Final Version (Default Branch)
 
