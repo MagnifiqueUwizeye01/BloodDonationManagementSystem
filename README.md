@@ -1,11 +1,11 @@
-# 🩸 Blood Donation Management System
+# Blood Donation Management System
  
 Welcome to the **Blood Donation Management System**!  
 This repository contains a **two-phase project** built in Java to manage donors, donations, and blood requests. 
  
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This project is developed as part of a **university software engineering exam** and showcases a progressive development from **DAO/JDBC** to a **full RMI + Hibernate client-server system**.   
 
@@ -20,7 +20,7 @@ This project is developed as part of a **university software engineering exam** 
 
 --- 
 
-## 🏗 Phase 2 — Final Version (Default Branch)
+## Phase 2 — Final Version (Default Branch)
 
 **Technologies Used:**  
 - Java (Swing for GUI)  
@@ -31,7 +31,7 @@ This project is developed as part of a **university software engineering exam** 
 - GitHub for version control
 
 
- ## ✨ Key Features
+ ## Key Features
 
 - **User Authentication** (Login & Registration)  
 - **Donor Management** – Add, edit, delete, and view donors  
@@ -45,23 +45,23 @@ This project is developed as part of a **university software engineering exam** 
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
-### 🔑 Login
+###  Login
 <img width="470" height="739" alt="Image" src="https://github.com/user-attachments/assets/3cf5db03-8678-4aac-8aff-5483d1f5977a" />
 
-### 📝 Register
+###  Register
 <img width="452" height="653" alt="Image" src="https://github.com/user-attachments/assets/6cc3ed85-fa29-4288-9396-1ac1609d7f5b" />
 
-### 🧑‍🤝‍🧑 Donor Management
+###  Donor Management
 Manage donor records with full CRUD functionality.  
 <img width="1699" height="1003" alt="Image" src="https://github.com/user-attachments/assets/bd8c006d-bf26-4c13-8cc7-c2a309a2ceb4" />
 
-### 💉 Donation Recording
+###  Donation Recording
 Record new blood donations and update inventory.  
 <img width="1698" height="1002" alt="Image" src="https://github.com/user-attachments/assets/ae78de6e-ea0b-4334-864d-3796f8a74611" />
 
-### 📥 Blood Request
+###  Blood Request
 Request blood units and track status (pending/fulfilled).  
 <img width="1697" height="1001" alt="Image" src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" />
 
@@ -104,7 +104,7 @@ BloodDonationManagementSystem/
 
 ---
 
-## 🏗 Phase 1 — Initial Version (`phase-1` branch)
+##  Phase 1 — Initial Version (`phase-1` branch)
 
 - DAO + JDBC version  
 - Swing GUI for donor, donation, and blood request management  
@@ -114,7 +114,7 @@ BloodDonationManagementSystem/
 
 ---
 
-## 🗂 Database Schema 
+##  Database Schema 
 
 ### Donors
 - `donor_id` INT (PK)  
@@ -142,7 +142,7 @@ BloodDonationManagementSystem/
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
 - Demonstrates a **full client-server system** with RMI and Hibernate  
 - Shows evolution from DAO/JDBC to modern architecture  
