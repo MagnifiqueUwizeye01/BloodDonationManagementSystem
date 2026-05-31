@@ -73,7 +73,7 @@ BloodDonationManagementSystem/
 
 ├── server/ → Server-side RMI services
 
-├── model/ → Shared entities
+├── model/ → Shared entities 
 
 ├── service/ → Server-side logic
 
