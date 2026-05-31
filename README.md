@@ -38,7 +38,7 @@ This system manages donors, donations, and blood requests. It provides a GUI for
 | **JDBC** | 4.2 | Manual database connectivity |
 | **DAO Pattern** | - | For modular data access separation |
 | **Swing** | - | Legacy GUI framework with drag-and-drop designer |
-| **Database** | MySQL / Any JDBC-compatible DB | Manual driver setup required |
+| **Database** | Any JDBC-compatible DB | Manual driver setup required |
 
 ---
 
@@ -79,3 +79,5 @@ Better separation of concerns
 
 Acknowledgments
 Built as part of academic coursework using legacy tools to demonstrate fundamental Java concepts including DAO patterns, JDBC connectivity, and Swing GUI development with NetBeans drag-and-drop designer.
+
+```
