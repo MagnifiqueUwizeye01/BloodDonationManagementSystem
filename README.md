@@ -47,55 +47,23 @@ This project is developed as part of a **university software engineering exam** 
 
 ## 📱 Screenshots
 
-### 🔐 Authentication
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/3cf5db03-8678-4aac-8aff-5483d1f5977a" width="300" alt="Login Screen"/>
-        <br/>
-        <b>Login Screen</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/6cc3ed85-fa29-4288-9396-1ac1609d7f5b" width="300" alt="Register Screen"/>
-        <br/>
-        <b>Register Screen</b>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+### 🔐 Authentication
+| Login | Register |
+|-------|----------|
+| <img src="https://github.com/user-attachments/assets/3cf5db03-8678-4aac-8aff-5483d1f5977a" width="250"/> | <img src="https://github.com/user-attachments/assets/6cc3ed85-fa29-4288-9396-1ac1609d7f5b" width="250"/> |
 
 ### 👥 Donor Management
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/bd8c006d-bf26-4c13-8cc7-c2a309a2ceb4" width="800" alt="Donor Management"/>
-  <br/>
-  <em>Manage donor records with full CRUD functionality</em>
-</div>
-
----
+<img src="https://github.com/user-attachments/assets/bd8c006d-bf26-4c13-8cc7-c2a309a2ceb4" width="700"/>
 
 ### 💉 Donation Recording
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ae78de6e-ea0b-4334-864d-3796f8a74611" width="800" alt="Donation Recording"/>
-  <br/>
-  <em>Record new blood donations and update inventory</em>
-</div>
-
----
+<img src="https://github.com/user-attachments/assets/ae78de6e-ea0b-4334-864d-3796f8a74611" width="700"/>
 
 ### 📋 Blood Request
+<img src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" width="700"/>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" width="800" alt="Blood Request"/>
-  <br/>
-  <em>Request blood units and track status (pending/fulfilled)</em>
 </div>
-
 ---
 
 
