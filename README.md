@@ -44,17 +44,16 @@ This system manages donors, donations, and blood requests. It provides a GUI for
 | Swing | — | Legacy GUI framework with drag-and-drop designer |
 | Database | Any JDBC-compatible DB | Manual driver setup required |
 
----
-
 ## Project Structure
-src/
-├── dao/          → Data Access Objects for each entity (Donor, Donation, BloodRequest)
-├── model/        → Java classes representing database entities
-└── view/         → Swing GUI forms built with NetBeans drag-and-drop
-build/            → Compiled classes and temporary files
-nbproject/        → NetBeans project configuration (IDE-specific)
 
----
+```
+src/
+  dao/        Data Access Objects for each entity (Donor, Donation, BloodRequest)
+  model/      Java classes representing database entities
+  view/       Swing GUI forms built with NetBeans drag-and-drop
+build/        Compiled classes and temporary files
+nbproject/    NetBeans project configuration (IDE-specific)
+```
 
 ## Setup Instructions for NetBeans 8
 
