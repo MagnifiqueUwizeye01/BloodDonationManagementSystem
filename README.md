@@ -70,25 +70,22 @@ This project is developed as part of a **university software engineering exam** 
 
 
 
-**Project Structure:**  
-BloodDonationManagementSystem/
-├── client/ → Client-side GUI
+**Project Structure:**
 
-├── server/ → Server-side RMI services
-
-├── model/ → Shared entities 
-
-├── service/ → Server-side logic
-
-├── rmi/ → RMI interfaces
-
-├── util/ → Utilities (HibernateUtil, EmailUtil)
-
-├── resources/ → Config files
-
-├── view/ → Client GUI forms
-
-├── README.md → This file
+```mermaid
+flowchart TD
+    BDS[BloodDonationManagementSystem]
+    
+    BDS --> Client[client/<br/>Client-side GUI]
+    BDS --> Server[server/<br/>Server-side RMI services]
+    BDS --> Model[model/<br/>Shared entities]
+    BDS --> Service[service/<br/>Server-side logic]
+    BDS --> RMI[rmi/<br/>RMI interfaces]
+    BDS --> Util[util/<br/>Utilities - HibernateUtil, EmailUtil]
+    BDS --> Resources[resources/<br/>Config files]
+    BDS --> View[view/<br/>Client GUI forms]
+    BDS --> Readme[README.md<br/>This file]
+```
 
 
 
