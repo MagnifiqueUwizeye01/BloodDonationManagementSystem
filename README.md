@@ -66,6 +66,10 @@ This project is developed as part of a **university software engineering exam** 
 </div>
 
 
+
+
+
+
 **Project Structure:**  
 BloodDonationManagementSystem/
 ├── client/ → Client-side GUI
