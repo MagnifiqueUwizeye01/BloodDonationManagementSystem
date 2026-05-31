@@ -43,7 +43,7 @@ This project is developed as part of a **university software engineering exam** 
 - **Hibernate ORM** – Database persistence with annotations and entity relationships   
 
 
----
+
 
 ## Screenshots
 
@@ -64,7 +64,6 @@ This project is developed as part of a **university software engineering exam** 
 <img src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" width="700"/>
 
 </div>
----
 
 
 **Project Structure:**  
