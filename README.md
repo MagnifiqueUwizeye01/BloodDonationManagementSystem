@@ -11,7 +11,7 @@ This project is developed academically and showcases a progressive development f
 
 ### Branches Overview
 
-| Branch | Description |
+| Branch | Description | 
 |--------|-------------|
 | `phase2-final` | **Phase 2 (Final)** — Hibernate ORM + RMI-based client-server version. Default branch. Exam-ready and production-like. |
 | `phase-1` | **Phase 1 (Initial)** — DAO + JDBC + Swing GUI version. Used for learning and initial prototype. |
