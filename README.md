@@ -28,7 +28,7 @@ This project is developed academically and showcases a progressive development f
 |---|---|
 | Java (Swing) | GUI framework |
 | Hibernate ORM | Database persistence |
-| Java RMI | Client-server communication | 
+| Java RMI | Client-server communication |   
 | JavaMail | OTP/email feature |
 | MySQL / MariaDB | Database |
 | GitHub | Version control |
