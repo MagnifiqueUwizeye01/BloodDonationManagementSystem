@@ -63,7 +63,7 @@ This project is developed academically and showcases a progressive development f
 <img src="https://github.com/user-attachments/assets/ae78de6e-ea0b-4334-864d-3796f8a74611" width="700"/>
 
 ### Blood Request
-<img src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" width="700"/>
+<img src="https://github.com/user-attachments/assets/60166d58-ccc1-4edd-9e79-322d86b68fde" width="700"/> 
 
 </div>
 
