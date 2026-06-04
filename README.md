@@ -50,7 +50,7 @@ This project is developed academically and showcases a progressive development f
 
 <div align="center"> 
 
-### Authentication
+### Authentication  
 
 | Login | Register |
 |-------|----------|
