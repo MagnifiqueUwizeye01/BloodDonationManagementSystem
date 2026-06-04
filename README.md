@@ -20,7 +20,7 @@ This project is developed academically and showcases a progressive development f
 
 ---
 
-## Phase 2 — Final Version (Default Branch)
+## Phase 2 — Final Version (Default Branch) 
 
 ### Technologies Used
 
