@@ -48,7 +48,7 @@ This project is developed academically and showcases a progressive development f
 
 ## Screenshots
 
-<div align="center">
+<div align="center"> 
 
 ### Authentication
 
