@@ -37,7 +37,7 @@ This project is developed academically and showcases a progressive development f
 
 - **User Authentication** — Login & Registration
 - **Donor Management** — Add, edit, delete, and view donors
-- **Donation Recording** — Track blood donations with donor linkage
+- **Donation Recording** — Track blood donations with donor linkage 
 - **Blood Request Management** — Hospitals/Patients request blood
 - **Blood Inventory Tracking** — Automatically updates stock based on donations and requests 
 - **PDF Export** — Generate reports for records
