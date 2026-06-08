@@ -31,7 +31,7 @@ This project is developed academically and showcases a progressive development f
 | Java RMI | Client-server communication |      
 | JavaMail | OTP/email feature | 
 | MySQL / MariaDB | Database |
-| GitHub | Version control |
+| GitHub | Version control | 
 
 ### Key Features
 
