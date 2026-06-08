@@ -36,7 +36,7 @@ This project is developed academically and showcases a progressive development f
 ### Key Features
 
 - **User Authentication** — Login & Registration
-- **Donor Management** — Add, edit, delete, and view donors  
+- **Donor Management** — Add, edit, delete, and view donors    
 - **Donation Recording** — Track blood donations with donor linkage    
 - **Blood Request Management** — Hospitals/Patients request blood  
 - **Blood Inventory Tracking** — Automatically updates stock based on donations and requests 
