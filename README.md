@@ -32,7 +32,7 @@ This project is developed academically and showcases a progressive development f
 | JavaMail | OTP/email feature |   
 | MySQL / MariaDB | Database |
 | GitHub | Version control | 
-
+  
 ### Key Features
 
 - **User Authentication** — Login & Registration
