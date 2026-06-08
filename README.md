@@ -10,7 +10,7 @@ This repository contains a **two-phase project** built in Java to manage donors,
 This project is developed academically and showcases a progressive development from **DAO/JDBC** to a **full RMI + Hibernate client-server system**.
 
 ### Branches Overview
-
+  
 | Branch | Description | 
 |--------|-------------|
 | `phase2-final` | **Phase 2 (Final)** — Hibernate ORM + RMI-based client-server version. Default branch. Exam-ready and production-like. |
