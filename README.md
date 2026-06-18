@@ -24,7 +24,7 @@ This project is developed academically and showcases a progressive development f
   
 ### Technologies Used
 
-| Technology | Role |
+| Technology | Role |  
 |---|---|
 | Java (Swing) | GUI framework |
 | Hibernate ORM | Database persistence |
